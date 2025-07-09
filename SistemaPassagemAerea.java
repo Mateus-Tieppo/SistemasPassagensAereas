@@ -1,7 +1,6 @@
 // Sistema de Venda de Passagens Aéreas
 // Desenvolvido por:
 // - Mateus Tieppo
-// - Pedro Faviero
 
 import java.awt.*;
 import java.awt.event.*;
